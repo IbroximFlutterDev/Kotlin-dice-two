@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Kotlin UI</string>
+    <string name="roll">Roll</string>
+</resources>
